@@ -58,11 +58,11 @@ The main objective of this project is to:
 
 ## Future Improvements
 
--Add shopping cart functionality
--Add backend (Node.js )
--Add login & registration system
--Integrate payment gateway
--Deploy project online using Netlify / Vercel
+- Add shopping cart functionality
+- Add backend (Node.js )
+- Add login & registration system
+- Integrate payment gateway
+- Deploy project online using Netlify / Vercel
 
 ## Author
 
