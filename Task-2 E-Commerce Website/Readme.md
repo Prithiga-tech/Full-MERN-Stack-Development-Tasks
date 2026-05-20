@@ -35,9 +35,7 @@ The main objective of this project is to:
 ##  How to Run This Project
 
 1. Clone the repository:
-   
-```bash
-git clone https://github.com/your-username/novacart.git
+   git clone https://github.com/your-username/novacart.git
 2. Open the project folder in VS Code
 3. Run index.html in your browser
 
@@ -51,6 +49,13 @@ git clone https://github.com/your-username/novacart.git
 
 ## Preview
 
+<img width="1896" height="910" alt="image" src="https://github.com/user-attachments/assets/ac7096d4-920a-4bcf-a832-58267563a609" />
+<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/120b36e0-dfef-4303-a151-a2d21bdb52b1" />
+<img width="1890" height="912" alt="image" src="https://github.com/user-attachments/assets/1842e2f2-e6c7-4520-8a9e-7600752e6fcc" />
+<img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/41d48766-a2f4-4605-bbdc-ff5d433f7974" />
+<img width="1895" height="907" alt="image" src="https://github.com/user-attachments/assets/dc93ae84-2e45-4745-80f5-18ad56a162a9" />
+<img width="1896" height="912" alt="image" src="https://github.com/user-attachments/assets/27e34242-ffc7-4833-be5a-53215206f73d" />
+
 ## Future Improvements
 
 -Add shopping cart functionality
@@ -61,8 +66,8 @@ git clone https://github.com/your-username/novacart.git
 
 ## Author
 
-Prithiga-tech
-CSE Student | Full Stack Developer Learner
+- Prithiga-tech
+- CSE Student | Full Stack Developer Learner
 
 ## Acknowledgement
 
