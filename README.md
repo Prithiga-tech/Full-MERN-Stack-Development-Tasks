@@ -216,22 +216,6 @@ During this internship I learned to:
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots of each task here.
-
-Example:
-
-```
-screenshots/
-Task01.png
-Task02.png
-Task03.png
-...
-```
-
----
-
 # 🚀 How to Run
 
 ## Frontend
