@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+/* Navbar */
+
+.navbar {
+  background: #1976d2;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 50px;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  color: yellow;
+}
+
+/* Page */
+
+.page {
+  text-align: center;
+  margin-top: 80px;
+}
+
+.page h1 {
+  color: #1976d2;
+  margin-bottom: 20px;
+}
+
+.page p {
+  font-size: 18px;
+  margin: 10px;
+}
