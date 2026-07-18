@@ -1,6 +1,6 @@
-# 🚀 MERN Stack Full Stack Web Development Internship
+#  MERN Stack Full Stack Web Development Internship
 
-## 📌 Overview
+##  Overview
 
 This repository contains all the tasks and projects completed during my **MERN Stack Full Stack Web Development Internship** at **Strydo Technologies Pvt. Ltd.**.
 
@@ -8,7 +8,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Frontend
 - HTML5
@@ -37,37 +37,37 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-# 📚 Internship Tasks
+#  Internship Tasks
 
-## ✅ Task 1 – HTML Basics
+## Task 1 – HTML Basics
 - Created the first HTML webpage
 - Used headings, paragraphs, images and lists
 - Learned semantic HTML
 
 ---
 
-## ✅ Task 2 – Registration Form
+##  Task 2 – Registration Form
 - Designed a student registration form
 - Used different input types
 - Implemented HTML validation
 
 ---
 
-## ✅ Task 3 – CSS Styling
+##  Task 3 – CSS Styling
 - Styled webpages using CSS
 - Worked with selectors, colors, fonts
 - Applied responsive design principles
 
 ---
 
-## ✅ Task 4 – Flexbox & CSS Grid
+##  Task 4 – Flexbox & CSS Grid
 - Built responsive layouts
 - Implemented navigation bar
 - Learned Flexbox and Grid
 
 ---
 
-## ✅ Task 5 – Portfolio Website
+##  Task 5 – Portfolio Website
 - Designed personal portfolio
 - About
 - Skills
@@ -76,7 +76,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 6 – JavaScript DOM
+## Task 6 – JavaScript DOM
 - DOM Manipulation
 - Form Validation
 - Event Handling
@@ -84,14 +84,14 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 7 – Calculator
+## Task 7 – Calculator
 - Basic Calculator
 - JavaScript Functions
 - Arithmetic Operations
 
 ---
 
-## ✅ Task 8 – To-Do List
+##  Task 8 – To-Do List
 - Add Tasks
 - Edit Tasks
 - Delete Tasks
@@ -99,7 +99,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 9 – React Basics
+##  Task 9 – React Basics
 - React Components
 - JSX
 - Props
@@ -107,7 +107,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 10 – Multi Page React App
+## Task 10 – Multi Page React App
 - React Router DOM
 - Home Page
 - About Page
@@ -116,7 +116,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 11 – Node.js & Express API
+## Task 11 – Node.js & Express API
 - Built REST APIs
 - Express Routing
 - MVC Structure
@@ -124,14 +124,14 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 12 – API Testing
+##  Task 12 – API Testing
 - Tested APIs using Postman
 - Verified Request & Response
 - Error Handling
 
 ---
 
-## ✅ Task 13 – MongoDB Integration
+##  Task 13 – MongoDB Integration
 - Connected MongoDB
 - Created Mongoose Models
 - CRUD Operations
@@ -139,7 +139,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 14 – MERN Integration
+##  Task 14 – MERN Integration
 - Connected React with Express
 - Axios API Calls
 - Displayed MongoDB Data
@@ -147,7 +147,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-## ✅ Task 15 – Deployment
+##  Task 15 – Deployment
 - Configured Environment Variables
 - Deployed Frontend
 - Deployed Backend
@@ -155,7 +155,7 @@ The internship provided hands-on experience in building responsive web applicati
 
 ---
 
-# 📂 Repository Structure
+#  Repository Structure
 
 ```
 MERN-Internship/
@@ -180,7 +180,7 @@ MERN-Internship/
 
 ---
 
-# 🎯 Skills Gained
+#  Skills Gained
 
 - HTML5
 - CSS3
@@ -202,7 +202,7 @@ MERN-Internship/
 
 ---
 
-# 📖 Learning Outcomes
+#  Learning Outcomes
 
 During this internship I learned to:
 
@@ -216,7 +216,7 @@ During this internship I learned to:
 
 ---
 
-# 🚀 How to Run
+#  How to Run
 
 ## Frontend
 
@@ -236,7 +236,7 @@ npm start
 
 ---
 
-# 📌 Future Improvements
+# Future Improvements
 
 - Authentication
 - JWT Security
@@ -247,7 +247,7 @@ npm start
 
 ---
 
-# 👨‍💻 Internship Details
+# Internship Details
 
 **Organization:** Strydo Technologies Pvt. Ltd.
 
@@ -259,7 +259,7 @@ npm start
 
 ---
 
-# ⭐ Acknowledgement
+#  Acknowledgement
 
 I sincerely thank **Strydo Technologies Pvt. Ltd.** for providing this internship opportunity and helping me gain practical experience in Full Stack Web Development. The internship enhanced my technical knowledge, problem-solving abilities, and confidence in developing real-world MERN Stack applications.
 
